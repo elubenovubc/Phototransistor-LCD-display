@@ -1,3 +1,5 @@
+//Used an Arduino UNO R3, 16 x 2 LCD, Potentiometer, Phototransistor, and basic electrical components such as wires and resistors.
+
 #include <LiquidCrystal.h>
 
 #define PT A0
