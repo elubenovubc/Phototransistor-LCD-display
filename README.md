@@ -8,6 +8,7 @@ You will find the code in PhotoTransistorIMarked.ino - It comes with some commen
 Phototransistor Schematic.pdf is where you can find the electrical schematic diagram. I also have a pretty faithful tinkercad replica here for you to interact with:
 https://www.tinkercad.com/things/1MBm03FpqFD-phototransistor-schematic/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits
 
-Will edit this when I get the schematics and other stuffs uploaded.
+PhotoTransistorP1 to P5 are some photos I took of the system.
+PhotoTransistorV1 and V2 are some videos I took.
 
 Thanks for checking this out!
